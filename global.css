@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-xs: 12px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-mediumseagreen: #00a551;
+  --color-darkslategray: #474749;
+  --color-gray: #7f7e83;
+  --color-whitesmoke-100: #f4f4f4;
+  --color-white: #fff;
+  --color-darkorange: #ff7008;
+  --color-gray-100: #858585;
+  --color-gray-200: #1c1c1c;
+
+  /* border radiuses */
+  --br-3xs: 10px;
+}
