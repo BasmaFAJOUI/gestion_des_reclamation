@@ -34,13 +34,6 @@ The primary objective of this application is to simplify the process for student
 - XAMPP for local server setup (Apache, MySQL)
 - Visual Studio Code for code editing
 
-### Setup
-1. Clone the repository to your local machine.
-2. Start Apache and MySQL servers in XAMPP.
-3. Import the `reclamation_system.sql` file into your MySQL database.
-4. Update the database configuration in the `config.php` file to connect to your MySQL instance.
-5. Open the project directory in Visual Studio Code and launch it in your browser.
-
 ## Usage
 1. **Login**: Access the system by logging in as a student, teacher, or administrator.
 2. **Student Actions**: Submit complaints, view statuses, and access personal details.
