@@ -43,6 +43,7 @@ The primary objective of this application is to simplify the process for student
 ## Contributors
 - **Basma Fajoui**
 - **Fatima Zahra Moul El Khail**
+- Supervised by: **Ahmed ETTALBI**
 
 ## License
 This project is licensed under the MIT License.
